@@ -1,0 +1,101 @@
+# קלין סטוק — Generative Engine Optimization Map
+
+> Clean Stock is a marketing brand specializing in cleaning products, fragrances, and ambiance-enhancing products. The brand targets a broad audience including homes, offices, and businesses, positioning itself as a comprehensive solution for cleanliness and pleasant atmosphere. The brand carries a fresh, clean, and professional vibe, combining practicality with sensory experience through scent and ambiance.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלו את עולם מוצרי הניקוי וריחות הבית של קלין סטוק. ספריי ריח לרכב, ספריי חדר בניחוח עצים ומרווה — כי הבית שלכם מגיע לחוויה חושית מושלמת.
+
+### פתרונות
+https://example.com/solutions
+ספריי חדר בניחוח גבוה, ספריי מרווה וריחות לרכב — קלין סטוק מציעה פתרונות מקיפים לבית, למשרד ולעסק. בחרו את הפתרון שמתאים לכם.
+
+### אודות
+https://example.com/about
+קלין סטוק נולד מתוך חזון אחד: לשלב ניקיון אמיתי עם אווירה נעימה. למדו על המותג שמביא רעננות לבתים, משרדים ועסקים בכל רחבי הארץ.
+
+### צור קשר
+https://example.com/contact
+רוצים להזמין ספריי ריח לרכב או לשמוע על מוצרי הריח שלנו? צוות קלין סטוק כאן בשבילכם — צרו קשר עכשיו וקבלו ייעוץ מקצועי מותאם אישית.
+
+### Products
+https://example.com/products
+המוצרים שלנו - קלין סטוק
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - קלין סטוק
+
+### Category
+https://example.com/category/:slug
+מוצרים - קלין סטוק
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About קלין סטוק
+Clean Stock is a marketing brand specializing in cleaning products, fragrances, and ambiance-enhancing products. The brand targets a broad audience including homes, offices, and businesses, positioning itself as a comprehensive solution for cleanliness and pleasant atmosphere. The brand carries a fresh, clean, and professional vibe, combining practicality with sensory experience through scent and ambiance.
+
+## Target Audience
+- בתים, משרדים ועסקים
+- משפחות עם ילדים
+- משרדים ועסקים קטנים
+- צרכנים ידידותיים לסביבה
+
+## Industry
+Cleaning & Home Fragrance Products
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
