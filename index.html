@@ -357,7 +357,7 @@
       <div class="search-results" id="mobile-search-results"></div>
     </div>
   
-<script>window.ZAPPY_WEBSITE_ID = "6745b6bd-3e44-45d7-97c9-3d22fe4aa84e";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "6745b6bd-3e44-45d7-97c9-3d22fe4aa84e";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -855,10 +855,10 @@
 </script>
   
   <main id="main">
-    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" dir="rtl" data-hero-type="fullscreen-scrim">
+    <section data-band-index="0" class="index-hero-section" data-layout-spec="בית-hero" dir="rtl" data-hero-type="fullscreen-scrim" id="index-hero-section" style="margin-top: -71px !important; padding-top: 71px !important;">
   <!-- Background Image -->
   <div class="index-hero-bg">
-    <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Bright aspirational interior scene combining a pristine modern home living room and office space with polished marble surfaces, soft natural daylight streaming through large windows, a subtle fragrance diffuser misting gently in the background, premium cleaning products arranged elegantly on a side table, fresh white and blue tones, glossy surfaces reflecting light, ultra-clean and fresh atmosphere, professional and premium feel" width="1200" height="700" src="/assets/site-index-hero-image-1.webp" alt="סביבה נקייה ומבושמת לבית, למשרד ולעסק – קלין סטוק">
+    <img loading="eager" fetchpriority="high" data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Bright aspirational interior scene combining a pristine modern home living room and office space with polished marble surfaces, soft natural daylight streaming through large windows, a subtle fragrance diffuser misting gently in the background, premium cleaning products arranged elegantly on a side table, fresh white and blue tones, glossy surfaces reflecting light, ultra-clean and fresh atmosphere, professional and premium feel" width="1200" height="700" src="/assets/site-index-hero-image-1.webp" alt="סביבה נקייה ומבושמת לבית, למשרד ולעסק – קלין סטוק" data-hero-background="true" data-element-type="image" data-element-id="img-1779840063854-l9ykjuktz">
   </div>
 
   <!-- Scrim Overlay -->
@@ -879,20 +879,20 @@
   <div class="index-hero-content">
     <div class="index-hero-label">
       <i class="fa-solid fa-location-dot" aria-hidden="true"></i>
-      <span>לבית · למשרד · לעסק</span>
+      <span style="color: rgb(244, 251, 255) !important;">לבית · למשרד · לעסק</span>
     </div>
 
     <h1 class="index-hero-h1">נקיון. ריח. אווירה.<br>הכל במקום אחד.</h1>
 
-    <h3 class="index-hero-subtitle">קלין סטוק – הפתרון המלא לניקיון ולאווירה נעימה.<br>מוצרי ניקוי פרימיום, בשמים לבית ולמשרד, ומוצרי אמביינס לכל סביבה.</h3>
+    <h3 class="index-hero-subtitle" style="">קלין סטוק – הפתרון המלא לניקיון ולאווירה נעימה.<br>מוצרי ניקוי פרימיום, בשמים לבית ולמשרד, ומוצרי אמביינס לכל סביבה.</h3>
 
-    <div class="index-hero-ctas">
-      <a href="/contact" class="index-hero-btn-primary">
-        <i class="fa-solid fa-envelope" aria-hidden="true"></i>
+    <div class="index-hero-ctas" style="">
+      <a href="/contact" class="index-hero-btn-primary" style="color: rgb(26, 26, 26) !important;" data-element-type="button" data-element-id="btn-1779840063852-j1b6mubrg" data-native-element="true">
+        <i class="fa-solid fa-envelope" aria-hidden="true" style="cursor: pointer;"></i>
         צרו קשר
       </a>
-      <a href="/solutions" class="index-hero-btn-secondary">
-        <i class="fa-solid fa-sparkles" aria-hidden="true"></i>
+      <a href="/solutions" class="index-hero-btn-secondary" style="color: rgb(244, 251, 255) !important;" data-element-type="button" data-element-id="btn-1779840063852-aokqpmskc" data-native-element="true">
+        <i class="fa-solid fa-sparkles" aria-hidden="true" style="cursor: pointer;"></i>
         הפתרונות שלנו
       </a>
     </div>
